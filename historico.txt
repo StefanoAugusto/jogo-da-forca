@@ -1,0 +1,12 @@
+Palavra: ['A'] Vencedor: Stefano Perdedor: Stefano
+Palavra: ['A'] Vencedor: Competidor Pedro Perdedor: Desafiante Stefano
+Horário: Horário: 29/04/2023 17:45:27Palavra: ['A'] Vencedor: Competidor pedro Perdedor: Desafiante setfano
+Horário: 29/04/2023 17:46:40Palavra: [] Vencedor: Competidor b Perdedor: Desafiante s
+Horário: 29/04/2023 17:47:11Palavra: ['S'] Vencedor: Competidor b Perdedor: Desafiante a
+29/04/2023 17:47:42 Palavra: ['A'] Vencedor: Competidor b Perdedor: Desafiante a
+Horário: 29/04/2023 17:49:03 Palavra: ['S'] Vencedor: Competidor  Perdedor: Desafiante a
+Horário: 29/04/2023 18:15:37 Palavra: ['A'] Vencedor: Competidor  Perdedor: Desafiante 
+Horário: 29/04/2023 18:28:36 Palavra: ['A'] Vencedor: Competidor pedro Perdedor: Desafiante stefan
+Horário: 29/04/2023 18:44:58 Palavra: ['A'] Vencedor: Competidor Stefano Perdedor: Desafiante Pedro
+Horário: 29/04/2023 18:46:33 Palavra: ['A'] Vencedor: Competidor Pedro Perdedor: Desafiante Stefano
+Horário: 29/04/2023 18:47:28 Palavra: ['A'] Vencedor: Competidor Stefano Perdedor: Desafiante Pedro
